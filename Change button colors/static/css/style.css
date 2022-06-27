@@ -1,0 +1,18 @@
+.container-1{
+    width: 75%;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.flex-box-container-1{
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-top: 1px solid black;
+}
+
+#dropdownMenuButton{
+    border: 1px solid black;
+}

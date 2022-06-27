@@ -1,0 +1,20 @@
+.flex-box-rps img{
+    height: 150px;
+    width: 150px;
+}
+.flex-box-rps img:hover{
+    box-shadow: 0 0px 40px rgba(37, 50, 233, 1);
+}
+.container-1{
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+}
+.flex-box-rps{
+    border-top: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;;
+}
